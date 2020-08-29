@@ -9,7 +9,7 @@ Website: https://discordpy.readthedocs.io/en/latest/#
 
 ## Files
 ### Procfile and requirements.txt
-These are example of required files if you wanna host your bot on heroku.
+These are required files if you wanna host your bot on heroku.
 ### Main.py
 This is the main file containing the script of the bot. 
 
