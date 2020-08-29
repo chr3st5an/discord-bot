@@ -47,7 +47,7 @@ async def on_message(message: discord.Message):
         embed = discord.Embed(  # This creates an embed object
             title="My first embed message",
             description="Yeah",
-            color=discord.Color().dark_blue()
+            color=discord.Color.dark_blue()
         )
         await message.channel.send(embed=embed)
 
