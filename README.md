@@ -1,4 +1,4 @@
-#8 Discord Bot
+# Discord Bot
 
 A simple discord bot using discord.py
 
