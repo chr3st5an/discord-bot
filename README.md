@@ -29,7 +29,7 @@ Get the token of your bot (on the bot developer page) and past it into the varia
 Now simple run the script.
 ### Hosting 
 I guess that you don't wanna host your bot from your computer all the time. You can host your bot for free
-on [HEROKU](https://www.heroku.com). Create an account on heroku and create an application. 
+on [Heruko](https://www.heroku.com). Create an account on heroku and create an application. 
 Make an private repo on github and upload your script along with a "Procfile" and a "requirements.txt". You 
 can find an example in this repo. Go to your heroku application and connect it with your github repo. Then 
 upload it on heroku. After a short time you should be able to host your bot.
