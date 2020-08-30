@@ -25,7 +25,7 @@ Go the *OAuth2* of your application. Click on the *bot* field and then click on 
 permissions your bot requires. After that copy the link and type it into your broswer.
 Now invite your bot to your server.
 ### Running your bot
-Get the token of your bot (on the bot developer page) and past it into the variable "TOKEN" found in main.py 
+Get the token of your bot (on the bot developer page) and paste it into the variable "TOKEN" found in main.py 
 Now simple run the script.
 ### Hosting 
 I guess that you don't wanna host your bot from your computer all the time. You can host your bot for free
