@@ -24,7 +24,9 @@ to the bot section and create a new bot.
 
 ### Installation
 
-Windows: `pip install discord.py`
+Open a new terminal and type the followig:
+
+Windows: `pip install discord.py` or `py -m pip install discord.py`
 
 Linux: `pip3 install discord.py`
 
